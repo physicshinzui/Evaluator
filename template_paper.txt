@@ -6,11 +6,11 @@
 [] Write Materials and Methods when you analyze
 
 ## First
-[] Write author names, email, etc.
-[] Consider a concide and attractive title based on your claim in your research.
-[] Make an outline by making topic sentences and connecting them.
-[] Check the logical flows of the outline You made 
-[] Write paragraphs/contents for every topic sentence.
+[x] Write author names, email, etc.
+[x] Consider a concide and attractive title based on your claim in your research.
+[x] Make an outline by making topic sentences and connecting them.
+[x] Check the logical flows of the outline You made 
+[x] Write paragraphs/contents for every topic sentence.
 [] Again, check if each paragraph is connected organically.
 [] Check Figure, Table, equation numbers.
 [] Show coauthors the 1st draft and get comments on it. 
