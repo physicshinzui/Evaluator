@@ -1,0 +1,39 @@
+# Writing Progress Template
+
+*Due Date : 25.1.2021
+
+## Preliminary
+[] Write Materials and Methods when you analyze
+
+## First
+[] Write author names, email, etc.
+[] Consider a concide and attractive title based on your claim in your research.
+[] Make an outline by making topic sentences and connecting them.
+[] Check the logical flows of the outline You made 
+[] Write paragraphs/contents for every topic sentence.
+[] Again, check if each paragraph is connected organically.
+[] Check Figure, Table, equation numbers.
+[] Show coauthors the 1st draft and get comments on it. 
+
+## Revise 1
+[] Check the logical flows of the outline You made 
+[] Revise as if you are one who is too busy to read. 
+
+[] Search for too long sentences which must be shortened. 
+[] Check if you used "each" "every" correctly.
+[] Have you avoided using double negation? 
+[x] Can you point out parts that may be misleading? If there are, you should add redundant but apprpriate sentences to explain more.
+[] Check Figure, Table, equation numbers.
+[] Show coauthors the 2nd draft and get comments on it. 
+
+## Revise 2
+[] Revise as if you are one who wants to look into your research. 
+
+[] Figure no check
+[] Simplify sentences   
+[] Check reasoning
+[] Check Figure captions
+
+
+## Reviewing
+[] Prepare the data reviewers think are necessary (it'll be long run, but you'll be seeing the goal!).
