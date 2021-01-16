@@ -1,7 +1,6 @@
-#!/Users/siida/anaconda3/bin/python
 import sys
 
-class WritingEvalator():
+class Evaluator():
 
     def __init__(self, input_file):
         self.input_file        = input_file
@@ -61,7 +60,7 @@ class WritingEvalator():
         return self
 
 def main():
-    EV = WritingEvalator(sys.argv[1])
+    EV = Evaluator(sys.argv[1])
     EV.eval()
     EV.showProgress()
     EV.showTasks(task_type='incompleted')
